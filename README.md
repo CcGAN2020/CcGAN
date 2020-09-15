@@ -8,12 +8,12 @@ placeholder...
 
 # 1. Datasets
 ## RC-49 Dataset (h5 file)
-https://1drv.ms/u/s!Arj2pETbYnWQr7MY2Pr5qipSUpZKEQ?e=k8HfB6
+https://1drv.ms/u/s!Arj2pETbYnWQr7MY2Pr5qipSUpZKEQ?e=aRym3k
 
 Download 'RC-49_64x64.h5' and put it in './CcGAN/dataset/RC-49'
 
 ## modified UTKFace Dataset (h5 file)
-https://1drv.ms/u/s!Arj2pETbYnWQr7MW_sGY9tJC4G3eMw?e=gmTA0w
+https://1drv.ms/u/s!Arj2pETbYnWQr7MW_sGY9tJC4G3eMw?e=ohhRTe
 
 Download 'UTKFace_64x64.h5' and put it in './CcGAN/dataset/UTKFace'
 
