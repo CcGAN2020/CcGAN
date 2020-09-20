@@ -72,11 +72,11 @@ Then, run 'run_train.sh'.
 ### Visual Comparison
 <img src="./images/UTKFace/UTKFace_comparison.png" alt="Visual Comparison" height="500" width="600"/> 
 
-### FID vs Angle
+### FID vs Age
 <img src="./images/UTKFace/UTKFace_comparison_fid_versus_center_vanilla.png" height="400" width="600"/> 
 
-### NIQE vs Angle
+### NIQE vs Age
 <img src="./images/UTKFace/UTKFace_comparison_NIQE_versus_center_vanilla.png" height="400" width="600"/> 
 
-### Diversity vs Angle
+### Diversity vs Age
 <img src="./images/UTKFace/UTKFace_comparison_diversity_versus_center_vanilla.png" height="400" width="600"/> 
