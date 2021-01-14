@@ -1,9 +1,6 @@
 # Continuous Conditional GAN (CcGAN)
 
-If you use this code, please cite
-```text
-placeholder...
-```
+This repo will not be updated any more. Please redirect to https://github.com/UBCDingXin/improved_CcGAN
 
 
 # 1. Datasets
